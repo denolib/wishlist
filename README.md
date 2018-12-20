@@ -14,3 +14,6 @@ Submit a PR to add the package you want to the list, so that others could help w
 - [ ] [jest](https://github.com/facebook/jest)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
+- [ ] [pako](https://github.com/nodeca/pako)
+  + Status: __NOT AVAILABLE__
+  + Claimed: Not yet

@@ -15,5 +15,6 @@ Submit a PR to add the package you want to the list, so that others could help w
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
 - [ ] [typeorm](https://github.com/typeorm/typeorm)
+- [ ] [pako](https://github.com/nodeca/pako)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet

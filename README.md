@@ -18,3 +18,9 @@ Submit a PR to add the package you want to the list, so that others could help w
 - [ ] [pako](https://github.com/nodeca/pako)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
+- [ ] [string_validator](https://github.com/chriso/validator.js)
+  + Status: __NOT AVAILABLE__
+  + Claimed: Not yet
+- [ ] [class_validator](https://github.com/typestack/class-validator)
+  + Status: __NOT AVAILABLE__
+  + Claimed: Not yet

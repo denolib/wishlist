@@ -9,8 +9,8 @@ Submit a PR to add the package you want to the list, so that others could help w
 
 ## Wishlist
 - [ ] [debug](https://github.com/visionmedia/debug)
-  + Status: __NOT AVAILABLE__
-  + Claimed: Not yet
+  + Status: __IN PROGRESS__
+  + Claimed: [rista404/deno-debug](https://github.com/rista404/deno-debug)
 - [ ] [jest](https://github.com/facebook/jest)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet

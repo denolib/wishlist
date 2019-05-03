@@ -24,3 +24,8 @@ Submit a PR to add the package you want to the list, so that others could help w
 - [ ] [class_validator](https://github.com/typestack/class-validator)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
+- [ ] [nodemon](https://github.com/remy/nodemon)
+  + Status: __NOT AVAILABLE__
+  + Claimed: Not yet
+  
+  

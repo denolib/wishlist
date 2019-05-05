@@ -27,5 +27,7 @@ Submit a PR to add the package you want to the list, so that others could help w
 - [ ] [nodemon](https://github.com/remy/nodemon)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
-  
+- [ ] [graphql-js](https://github.com/graphql/graphql-js)
+  + Status: __NOT AVAILABLE__
+  + Claimed: Not yet
   

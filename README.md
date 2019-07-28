@@ -30,4 +30,7 @@ Submit a PR to add the package you want to the list, so that others could help w
 - [ ] [graphql-js](https://github.com/graphql/graphql-js)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
+- [ ] [loopback](https://github.com/strongloop/loopback)
+  + Status: __NOT AVAILABLE__
+  + Claimed: Not yet
   

@@ -25,12 +25,12 @@ Submit a PR to add the package you want to the list, so that others could help w
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
 - [ ] [nodemon](https://github.com/remy/nodemon)
-  + Status: __NOT AVAILABLE__
-  + Claimed: Not yet
+  + Status: __IN PROGRESS__
+  + Claimed: [eliassjogreen/denon](https://github.com/eliassjogreen/denon)
 - [ ] [graphql-js](https://github.com/graphql/graphql-js)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
 - [ ] [loopback](https://github.com/strongloop/loopback)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
-  
+ 

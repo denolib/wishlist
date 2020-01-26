@@ -16,7 +16,7 @@ Submit a PR to add the package you want to the list, so that others could help w
   + Claimed: Not yet
 - [ ] [typeorm](https://github.com/typeorm/typeorm)
   + Status: __IN PROGRESS__
-  + Claimed: [uki00a/typeorm](https://github.com/uki00a/typeorm)
+  + Claimed: [denolib/typeorm](https://github.com/denolib/typeorm)
 - [ ] [pako](https://github.com/nodeca/pako)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet

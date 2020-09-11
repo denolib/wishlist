@@ -42,5 +42,5 @@ Submit a PR to add the package you want to the list, so that others could help w
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
 - [ ] [mocha](https://github.com/mochajs/mocha)
-  + Status: __IN PROGRESS, WORKING VERSION__
+  + Status: __IN PROGRESS (working version available)__
   + Claimed: [ahuggins-nhs/deno_mocha](https://github.com/ahuggins-nhs/deno_mocha)

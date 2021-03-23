@@ -34,10 +34,10 @@ Submit a PR to add the package you want to the list, so that others could help w
   + Claimed: [eliassjogreen/denon](https://github.com/eliassjogreen/denon)
 - [ ] [graphql-js](https://github.com/graphql/graphql-js)
   + Status: __COMPLETED__
-  + Claimed: [adelsz/graphql-deno)](https://github.com/adelsz/graphql-deno)
+  + Claimed: [adelsz/graphql-deno](https://github.com/adelsz/graphql-deno)
 - [ ] [loopback](https://github.com/strongloop/loopback)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
  - [ ] [discord.js](https://github.com/discordjs/discord.js)
-  + Status: __NOT AVAILABLE__
-  + Claimed: Not yet
+  + Status: __COMPLETED__
+  + Claimed: [discordeno](https://github.com/discordeno/discordeno)

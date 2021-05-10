@@ -38,6 +38,9 @@ Submit a PR to add the package you want to the list, so that others could help w
 - [ ] [loopback](https://github.com/strongloop/loopback)
   + Status: __NOT AVAILABLE__
   + Claimed: Not yet
- - [ ] [discord.js](https://github.com/discordjs/discord.js)
+- [ ] [discord.js](https://github.com/discordjs/discord.js)
   + Status: __COMPLETED__
   + Claimed: [discordeno](https://github.com/discordeno/discordeno)
+- [ ] [tsoa](https://github.com/lukeautry/tsoa)
+  + Status: __NOT AVAILABLE__
+  + Claimed: Not yet
